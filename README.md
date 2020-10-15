@@ -1,6 +1,8 @@
+# BuddyList
+
 [![visit](https://img.shields.io/badge/visit-online-green)](https://buddylist.me)
 
-# What's BuddyList
+## What's BuddyList
 
 BuddyList — it's like Tinder, but for professional connections in tech.
 Matching users based on their locations, age, common professional and general interests.
