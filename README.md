@@ -1,4 +1,5 @@
 # BuddyList
+It's like Tinder, but for professional connections in tech.
 
 [![visit](https://img.shields.io/badge/visit-online-green)](https://buddylist.me)
 
